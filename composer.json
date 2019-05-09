@@ -15,11 +15,6 @@
         }
     ],
     "require": {
-        "ext-mbstring": "*",
-        "illuminate/contracts": "~5.4",
-        "illuminate/support": "~5.4",
-        "illuminate/http": "~5.4",
-        "illuminate/routing": "~5.4",
         "spiral/roadrunner": "^1.4",
         "symfony/psr-http-message-bridge": "^1.1"
     },
