@@ -15,7 +15,6 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
         "ext-mbstring": "*",
         "illuminate/contracts": "5.8.*",
         "illuminate/support": "5.8.*",
@@ -30,10 +29,7 @@
         "ext-sqlite3": "*",
         "avto-dev/dev-tools": "^1.9",
         "jeremeamia/superclosure": "^2.4",
-        "laravel/laravel": "5.8.*",
-        "mockery/mockery": "0.9.* || ~1.0",
         "phpstan/phpstan": "~0.9 || ^0.10",
-        "phpunit/phpunit": "^6.4 || ~7.0",
         "symfony/var-dumper": "~3.2 || ^4.0"
     },
     "autoload": {
